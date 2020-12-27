@@ -3,7 +3,7 @@
 
 <div class="trophys" style="width: 100px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorjblp&label=Profile%20views&color=0e75b6&style=flat" alt="juniorjblp" /> </p>
-  <p align="left"> <img src="https://badges.pufler.dev/visits/{juniorjblp}/{juniorjblp}" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniorjblp&theme=dracula" alt="juniorjblp" /></a> </p>
 

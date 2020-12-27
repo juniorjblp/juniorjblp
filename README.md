@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorjblp&label=Profile%20views&color=0e75b6&style=flat" alt="juniorjblp" /> </p>
+<p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=juniorjblp&label=Profile%20views&color=0e75b6&style=flat" alt="juniorjblp" /> </p>
 
 <p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniorjblp&theme=dracula" alt="juniorjblp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/juniorjblp" target="blank"><img src="https://img.shields.io/twitter/follow/juniorjblp?logo=twitter&style=for-the-badge" alt="juniorjblp" /></a> </p>
+<p align="left" width="100%"> <a href="https://twitter.com/juniorjblp" target="blank"><img src="https://img.shields.io/twitter/follow/juniorjblp?logo=twitter&style=for-the-badge" alt="juniorjblp" /></a> </p>
 
 - 🔭 I’m currently working on [my-next-port](https://juniorjblp.cf)
 

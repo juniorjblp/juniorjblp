@@ -10,23 +10,23 @@
 <p align="left"> <a href="https://twitter.com/juniorjblp" target="blank"><img src="https://img.shields.io/twitter/follow/juniorjblp?logo=twitter&style=for-the-badge" alt="juniorjblp" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on [my-next-port](https://juniorjblp.cf)
+- 🔭 I’m currently working on [my-next-port](https://mynextport.cf)
 
 - 🌱 I’m currently learning **Reactjs, React Native, HTML5, Bootstrap, CSS3, Pentest**
 
-- 👯 I’m looking to collaborate on [my-next-port](https://juniorjblp.cf)
+- 👯 I’m looking to collaborate on [my-next-port](https://mynextport.cf)
 
-- 🤝 I’m looking for help with [my-next-port](https://juniorjblp.cf)
+- 🤝 I’m looking for help with [my-next-port](https://mynextport.cf)
 
-- 👨‍💻 All of my projects are available at [https://juniorjblp.cf](https://juniorjblp.cf)
+- 👨‍💻 All of my projects are available at [https://mynextport.cf](https://mynextport.cf)
 
-- 📝 I regularly write articles on [https://juniorjblp.cf/blog](https://juniorjblp.cf/blog)
+- 📝 I regularly write articles on [https://mynextport.cf/blog](https://mynextport.cf/blog)
 
 - 💬 Ask me about **React, Mobile, Front And**
 
 - 📫 How to reach me **juniorjblp@gmail.com**
 
-- 📄 Know about my experiences [https://juniorjblp.cf/about](https://juniorjblp.cf/about)
+- 📄 Know about my experiences [https://mynextport.cf/about](https://mynextport.cf/about)
 
 - ⚡ Fun fact **I think i'm a cool person**
 

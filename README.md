@@ -41,8 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorjblp&show_icons=true&locale=en&layout=compact&theme=dracula" alt="juniorjblp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorjblp&show_icons=true&locale=en" alt="juniorjblp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorjblp&show_icons=true&locale=en$theme=dracula" alt="juniorjblp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorjblp&" alt="juniorjblp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorjblp&theme=dracula" alt="juniorjblp" /></p>
 
 

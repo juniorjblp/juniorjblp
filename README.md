@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniorjblp&theme=dracula" alt="juniorjblp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/juniorjblp" target="blank"><img src="https://img.shields.io/twitter/follow/juniorjblp?logo=twitter&style=for-the-badge" alt="juniorjblp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/juniorNxT" target="blank"><img src="https://img.shields.io/twitter/follow/juniorNxT?logo=twitter&style=for-the-badge" alt="juniorNxT" /></a> </p>
 </div>
 
 - 🔭 I’m currently working on [my-next-port](https://mynextport.cf)

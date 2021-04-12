@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/juniorjblp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juniorjblp" height="30" width="40" color="#FFFFFF"/></a>
+<a href="https://codepen.io/juniorjblp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juniorjblp" height="30" width="40" background-color="#FFFFFF"/></a>
 <a href="https://twitter.com/juniorjblp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juniorjblp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joão-batista-1879801a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão-batista-1879801a7" height="30" width="40" /></a>
 <a href="https://fb.com/juniorjblp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juniorjblp" height="30" width="40" /></a>

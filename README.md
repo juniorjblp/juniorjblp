@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<div class="trophys" style="width: 90px">
+<div class="trophys" style="width: 50px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorjblp&label=Profile%20views&color=0e75b6&style=flat" alt="juniorjblp" /> </p>
 
 

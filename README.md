@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a Analysis and Systems Development student in Brasil
-- 🔭 Studying on multiple frontend and backend project using React and Nodejs
+I am a Full Stack Developer in Brasil
+- 🔭 Studying on multiple frontend and backend project using .NET and Javascript.
 - 🌱 Learning design an development
 <br>
 ## Connect with me
